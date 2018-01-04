@@ -1,0 +1,5 @@
+version: '2'
+services:
+  miner:
+    image: takahiro/bitzeny-miner
+    size: s1
